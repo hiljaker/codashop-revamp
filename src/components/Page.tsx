@@ -5,10 +5,13 @@ import NavbarSupport from "./NavbarSupport";
 import { Box } from "@mui/material";
 import { usePathname } from "next/navigation";
 import NavbarMain from "./NavbarMain";
+import Footer from "./Footer";
 
-interface PageProps extends PropsWithChildren, ComponentProps<typeof Box> {}
+interface PageProps extends PropsWithChildren, ComponentProps<typeof Box> {
+  hideFooter?: boolean;
+}
 
-const Page: FC<PageProps> = ({ children, ...props }) => {
+const Page: FC<PageProps> = ({ hideFooter, children, ...props }) => {
   const path = usePathname();
 
   const isSupportPage = path.includes("/support");
@@ -17,6 +20,7 @@ const Page: FC<PageProps> = ({ children, ...props }) => {
     <>
       {isSupportPage ? <NavbarSupport /> : <NavbarMain />}
       <Box {...props}>{children}</Box>
+      {!hideFooter && <Footer />}
     </>
   );
 };

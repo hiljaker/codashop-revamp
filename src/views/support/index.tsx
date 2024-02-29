@@ -95,7 +95,7 @@ const SupportView = () => {
   });
 
   return (
-    <Page pt={navbarHeight}>
+    <Page pt={navbarHeight} hideFooter>
       <Box>
         <Box sx={{ pt: { xs: 2, md: 7 }, pb: 4 }} bgcolor="yellowBrand.main">
           <Container>
