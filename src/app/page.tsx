@@ -1,7 +1,13 @@
+import HomeView from "@src/views/home";
+import { Metadata } from "next";
 import React from "react";
 
+export const metadata: Metadata = {
+  title: "Codashop",
+};
+
 const Home = () => {
-  return <div>WOOOOOOOw kamu sedang apa zaky hilmawan</div>;
+  return <HomeView />;
 };
 
 export default Home;

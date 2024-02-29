@@ -5,6 +5,7 @@ import {
   Container,
   IconButton,
   Stack,
+  TextField,
   useMediaQuery,
 } from "@mui/material";
 import { Theme, styled } from "@mui/material/styles";
@@ -23,7 +24,21 @@ const CustomLink = styled(Link)(({ theme }) => ({
   },
 }));
 
-const Navbar = () => {
+const TextInput = styled(TextField)(({ theme }) => ({
+  backgroundColor: "white",
+  borderRadius: "100px",
+
+  "& .MuiOutlinedInput-root": {
+    paddingRight: 0,
+    borderRadius: "100px",
+
+    "&.Mui-focused fieldset": { borderColor: theme.palette.pinkBrand.main },
+
+    button: { margin: "8px" },
+  },
+}));
+
+const NavbarSupport = () => {
   const navbarHeight = useNavbarHeight();
   const mobile = useMediaQuery(({ breakpoints }: Theme) =>
     breakpoints.down("md")
@@ -70,7 +85,6 @@ const Navbar = () => {
         <Box
           width="100%"
           bgcolor="white"
-          // position="fixed"
           borderTop="1px dashed"
           borderColor="neutral400.main"
         >
@@ -91,4 +105,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavbarSupport;

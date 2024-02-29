@@ -5,6 +5,7 @@ declare module "@mui/material/styles" {
     yellowBrand: Palette["primary"];
     purpleBrand: Palette["primary"];
     darkPurpleBrand: Palette["primary"];
+    lightPurpleBrand: Palette["primary"];
     pinkBrand: Palette["primary"];
     neutralBg: Palette["primary"];
     neutral100: Palette["primary"];
@@ -22,6 +23,7 @@ declare module "@mui/material/styles" {
     yellowBrand: PaletteOptions["primary"];
     purpleBrand: PaletteOptions["primary"];
     darkPurpleBrand: PaletteOptions["primary"];
+    lightPurpleBrand: PaletteOptions["primary"];
     pinkBrand: PaletteOptions["primary"];
     neutralBg: PaletteOptions["primary"];
     neutral100: PaletteOptions["primary"];
@@ -42,6 +44,7 @@ export const colors = {
   yellowBrand: "#E8F853",
   purpleBrand: "#6341FC",
   darkPurpleBrand: "#280031",
+  lightPurpleBrand: "#3C1F42",
   pinkBrand: "#FF7F98",
   neutralBg: "#FFFFF0",
   neutral100: "#171717",
@@ -68,6 +71,10 @@ export const customPalette: PaletteOptions = {
   darkPurpleBrand: {
     main: colors.darkPurpleBrand,
     contrastText: theme.palette.getContrastText(colors.darkPurpleBrand),
+  },
+  lightPurpleBrand: {
+    main: colors.lightPurpleBrand,
+    contrastText: theme.palette.getContrastText(colors.lightPurpleBrand),
   },
   pinkBrand: {
     main: colors.pinkBrand,

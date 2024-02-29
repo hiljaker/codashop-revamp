@@ -1,0 +1,18 @@
+[
+  {
+    "image": "/static/jumbotron/codm.jpeg",
+    "url": "https://store.callofdutymobile.com/en-ca/codm/?utm_source=atvi&utm_medium=coda_hpbanner_canada&utm_campaign=codashop_canada_referral"
+  },
+  {
+    "image": "/static/jumbotron/mlbb.jpeg",
+    "url": "https://www.codashop.com/en-ca/mobile-legends"
+  },
+  {
+    "image": "/static/jumbotron/pubgm.jpeg",
+    "url": "https://www.codashop.com/en-ca/pubg-mobile-uc-redeem-code"
+  },
+  {
+    "image": "/static/jumbotron/wor.jpeg",
+    "url": "https://www.codashop.com/en-ca/watcher-of-realms"
+  }
+]

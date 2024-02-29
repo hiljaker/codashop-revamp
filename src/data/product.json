@@ -1,0 +1,262 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "COD:M WEB STORE"
+    },
+    {
+      "id": 2,
+      "name": "INSTANT TOP-UPS"
+    },
+    {
+      "id": 3,
+      "name": "DIGITAL CODES"
+    }
+  ],
+  "types": [
+    { "id": 1, "name": "Voucher" },
+    { "id": 2, "name": "Recharge" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "COD:M Web Store",
+      "categories": [1],
+      "image": "/static/product/codm.jpeg",
+      "url": "https://store.callofdutymobile.com/en-ca/codm/?utm_source=coda&utm_medium=owned_codashop_canada&utm_campaign=codashop_canada_tile"
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "name": "PUBG Mobile UC Vouchers",
+      "categories": [2, 3],
+      "image": "/static/product/pubg.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "pubg-mobile-uc-redeem-code"
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Mobile Legends",
+      "categories": [2],
+      "image": "/static/product/mlbb.jpeg",
+      "banner": "/static/product/mlbb-banner.jpeg",
+      "slug": "mobile-legends",
+      "isNew": true
+    }
+  ]
+}
