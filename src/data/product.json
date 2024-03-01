@@ -27,236 +27,249 @@
     },
     {
       "id": 2,
+      "typeId": 2,
       "name": "Mobile Legends",
-      "categories": [2],
+      "fullname": "Mobile Legends: Bang Bang",
+      "slug": "mobile-legends",
+      "description": "<p>Top up Mobile Legends Diamonds in seconds! Just enter your ML user ID, select the value of Diamonds you wish to purchase, complete the payment, and the Diamonds will be added immediately to your ML account.</p><p>Pay conveniently using your credit card. There&#39;s no registration or log-in required!</p>",
+      "info": "<h2>Codashop - The best way to top up Mobile Legends Diamonds in Canada</h2><p>You are seconds away from buying Mobile Legends Diamonds. With Diamonds, you can get Twilight Pass rewards, unlock champions, buy cool champion skins and more. Using Codashop, topping up is made easy, safe and convenient. We are trusted by millions of gamers &amp; app users around the world. No registration or login is required!&nbsp;<a href='https://www.codashop.com/en-ca/mobile-legends#top'>Click here to get started</a>.</p><p><strong>What is Mobile Legends: Bang Bang</strong><br />Join your friends in a brand new 5v5 MOBA showdown against real human opponents, Mobile Legends! Choose your favorite heroes and build the perfect team with your comrades-in-arms! 10-second matchmaking, 10-minute battles. Laning, jungling, tower rushing, team battles, all the fun of PC MOBAs and action games in the palm of your hand! Feed your eSports spirit!</p><p><strong>Minimum System Requirements:</strong><br />&bull; CPU: Snapdragon 430 Octa Core 1.4 GHz (or equivalent)<br />&bull; RAM: 2GB<br />&bull; GPU: Adreno 505 or equivalent<br />&bull; OS: iOS 7 / Android 5.0<br />&bull; Inital Download File Size: 103 MB</p>",
       "image": "/static/product/mlbb.jpeg",
       "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
+      "categories": [2],
+      "appstore": "https://apps.apple.com/ca/app/mobile-legends-bang-bang/id1160056295",
+      "playstore": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en_CA&gl=US",
+      "pricing": {
+        "text": "3,025 items bought in the last hour",
+        "prices": [
+          {
+            "id": 1,
+            "title": "58 Diamonds",
+            "subtitle": "(53 + 5 Bonus)",
+            "price": 1.29,
+            "discount": 13
+          },
+          {
+            "id": 2,
+            "title": "293 Diamonds",
+            "subtitle": "(266 + 27 Bonus)",
+            "price": 6.49,
+            "isPopular": true
+          },
+          {
+            "id": 3,
+            "title": "596 Diamonds",
+            "subtitle": "(527 + 69 Bonus)",
+            "price": 12.99
+          },
+          {
+            "id": 4,
+            "title": "1170 Diamonds",
+            "subtitle": "(1013 + 157 Bonus)",
+            "price": 24.99,
+            "isPopular": true
+          },
+          {
+            "id": 5,
+            "title": "1860 Diamonds",
+            "subtitle": "(1581 + 279 Bonus)",
+            "price": 38.99
+          },
+          {
+            "id": 6,
+            "title": "3183 Diamonds",
+            "subtitle": "(2675 + 508 Bonus)",
+            "price": 65.99
+          },
+          {
+            "id": 7,
+            "title": "6323 Diamonds",
+            "subtitle": "(5269 + 1054 Bonus)",
+            "price": 129.99
+          },
+          {
+            "id": 8,
+            "title": "Twilight Pass",
+            "price": 12.33
+          }
+        ]
+      }
     },
     {
       "id": 3,
+      "typeId": 1,
       "name": "PUBG Mobile UC Vouchers",
-      "categories": [2, 3],
+      "fullname": "PUBG Mobile UC Redeem Code",
+      "slug": "pubg-mobile-uc-redeem-code",
+      "description": "<p>Top up PUBG UC in seconds! Just select the value of PUBG UC voucher you wish to purchase, complete the payment, and the UC voucher will be be ready for redemption.</p><p>Learn how to redeem your PUBG Mobile UC voucher code&nbsp;<a href='https://www.codashop.com/en-ca/pubg-mobile-uc-redeem-code#bottom'>here</a>.</p><p>Pay conveniently using Visa or MasterCard.</p><p>Note: You can also directly top up PUBG UC&nbsp;<a href='https://www.midasbuy.com/midasbuy/ot/shop/pubgm' rel='nofollow'>here</a>.</p>",
+      "info": "<h2>Codashop - The best way to buy PUBG UC in Canada</h2><p>You are seconds away from buying PUBG UC. With Unknown Cash (UC), you can get Elite Royale Pass &amp; Elite Plus Royale Pass rewards, buy cool skins, unlock new characters and more. Using Codashop, topping up is made easy, safe and convenient. We are trusted by millions of gamers &amp; app users around the world.&nbsp;<a href='https://www.codashop.com/en-ca/pubg-mobile-uc-redeem-code#top'>Click here to get started</a>.</p><p><strong>About PUBG Mobile:</strong><br />The official PLAYERUNKNOWN&#39;S BATTLEGROUNDS designed exclusively for Mobile. Play free anywhere, anytime. PUBG MOBILE delivers the most intense free-to-play action on mobile. Drop in, gear up, and compete. Survive epic 100-player battles, and fast past 4v4 team deathmatch and zombie modes. Last one standing wins. Be the one!</p><p><strong>Minimum System Requirements:</strong><br />&bull; CPU: Snapdragon 430 Octa Core 1.4 GHz (or equivalent)<br />&bull; RAM: 2GB<br />&bull; GPU: Adreno 505 or equivalent<br />&bull; OS: iOS 7 / Android 5.0<br />&bull; Inital Download File Size: 103 MB</p>",
       "image": "/static/product/pubg.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "pubg-mobile-uc-redeem-code"
+      "banner": "/static/product/pubg-banner.jpeg",
+      "categories": [2, 3],
+      "appstore": "https://apps.apple.com/us/app/pubg-mobile/id1330123889?country=ca",
+      "playstore": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=id?country=ca",
+      "pricing": {
+        "text": "3,025 items bought in the last hour",
+        "prices": [
+          {
+            "id": 1,
+            "title": "60 UC",
+            "price": 1.39
+          },
+          {
+            "id": 2,
+            "title": "325 UC",
+            "price": 7.57,
+            "discount": 17
+          },
+          {
+            "id": 3,
+            "title": "660 UC",
+            "price": 14.26,
+            "discount": 12
+          },
+          {
+            "id": 4,
+            "title": "1800 UC",
+            "price": 34.99,
+            "discount": 10
+          },
+          {
+            "id": 5,
+            "title": "3850 UC",
+            "price": 69.99,
+            "discount": 10
+          },
+          {
+            "id": 6,
+            "title": "8100 UC",
+            "price": 139.99,
+            "discount": 10,
+            "isPopular": true
+          }
+        ]
+      }
     },
     {
-      "id": 2,
-      "name": "Mobile Legends",
+      "id": 4,
+      "typeId": 1,
+      "name": "Brawl Stars",
+      "fullname": "Brawl Stars",
+      "isNew": true,
+      "slug": "brawl-stars",
+      "description": "<p>Codashop has partnered with Supercell Oy to offer official Brawl Stars Gems top ups!</p><p>It&#39;s secure and easy. Just enter your Brawl Stars Player Tag, select the value of top up you wish to purchase, complete the payment, and the top up will be added immediately to your Brawl Stars account</p><p>There&#39;s no registration or login required.</p>",
+      "info": "<h2>Top Up Brawl Stars in Codashop</h2><p>Codashop is the safe and easy way to buy official game credits. We are trusted by millions of gamers and app users in over 50 countries. No registration or login is required and we do not sell your information. Codashop is an official partner with hundreds of game publishers and app developers, so topping up with us ensures your account is secure.&nbsp;<a href='https://www.codashop.com/en-ca/brawl-stars#top'>Start your top up now!</a></p>",
+      "image": "/static/product/brawl-stars.jpeg",
+      "banner": "/static/product/brawl-stars-banner.png",
       "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
+      "appstore": "https://apps.apple.com/de/app/brawl-stars/id1229016807",
+      "playstore": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=",
+      "pricing": {
+        "text": "3,025 items bought in the last hour",
+        "prices": [
+          {
+            "id": 1,
+            "title": "30 Gems + 3 bonus",
+            "price": 2.79
+          },
+          {
+            "id": 2,
+            "title": "80 Gems + 8 bonus",
+            "price": 6.99
+          },
+          {
+            "id": 3,
+            "title": "Brawl Pass Plus",
+            "price": 13.99
+          },
+          {
+            "id": 4,
+            "title": "170 Gems +17 bonus",
+            "price": 13.99
+          },
+          {
+            "id": 5,
+            "title": "360 Gems +36 bonus",
+            "price": 27.99
+          },
+          {
+            "id": 6,
+            "title": "950 Gems + 95 bonus",
+            "price": 69.99
+          },
+          {
+            "id": 6,
+            "title": "2000 Gems + 200 bonus",
+            "price": 139.99
+          }
+        ]
+      }
     },
     {
-      "id": 2,
-      "name": "Mobile Legends",
+      "id": 5,
+      "typeId": 1,
+      "name": "Watcher of Realms",
+      "fullname": "Watcher of Realms",
+      "slug": "watcher-of-realms",
+      "description": "<p>Codashop has partnered with Moonton to offer official Watcher of Realms W-Gold top ups!</p><p>It&#39;s secure and easy. Just enter your Watcher of Realms ID, select the value of top up you wish to purchase, complete the payment, and the top up will be added immediately to your Watcher of Realms account</p><p>There&#39;s no registration or login required.</p>",
+      "info": "<h1>Top Up Watcher of Realms in Codashop</h1><p>Codashop is the safe and easy way to buy official game credits. We are trusted by millions of gamers and app users in over 50 countries. No registration or login is required and we do not sell your information. Codashop is an official partner with hundreds of game publishers and app developers, so topping up with us ensures your account is secure.&nbsp;<a href='https://www.codashop.com/en-ca/watcher-of-realms#top'>Start your top up now!</a></p>",
+      "image": "/static/product/wor.png",
+      "banner": "/static/product/wor-banner.jpeg",
       "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
-    },
-    {
-      "id": 2,
-      "name": "Mobile Legends",
-      "categories": [2],
-      "image": "/static/product/mlbb.jpeg",
-      "banner": "/static/product/mlbb-banner.jpeg",
-      "slug": "mobile-legends",
-      "isNew": true
+      "appstore": "https://apps.apple.com/app/id1585948508",
+      "playstore": "https://play.google.com/store/apps/details?id=com.td.watcherofrealms",
+      "pricing": {
+        "text": "3,025 items bought in the last hour",
+        "prices": [
+          {
+            "id": 1,
+            "title": "499 W-Gold",
+            "price": 6.99,
+            "discount": 13
+          },
+          {
+            "id": 2,
+            "title": "999 W-Gold",
+            "price": 13.99,
+            "discount": 13
+          },
+          {
+            "id": 3,
+            "title": "1999 W-Gold",
+            "price": 27.0,
+            "discount": 10
+          },
+          {
+            "id": 4,
+            "title": "2999 W-Gold",
+            "price": 40.5,
+            "discount": 10
+          },
+          {
+            "id": 5,
+            "title": "4999 W-Gold",
+            "price": 67.99,
+            "discount": 11
+          },
+          {
+            "id": 6,
+            "title": "9999 W-Gold",
+            "price": 135.0,
+            "discount": 10
+          },
+          {
+            "id": 7,
+            "title": "29999 W-Gold",
+            "price": 405.0,
+            "discount": 10
+          },
+          {
+            "id": 8,
+            "title": "59999 W-Gold",
+            "price": 810.0,
+            "discount": 10
+          }
+        ]
+      }
     }
   ]
 }

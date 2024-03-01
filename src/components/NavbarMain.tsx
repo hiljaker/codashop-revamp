@@ -192,6 +192,8 @@ const NavbarMain = () => {
           )}
 
           <Stack
+            maxHeight={{ xs: "300px" }}
+            overflow="scroll"
             bgcolor="white"
             borderRadius="16px"
             padding={3}

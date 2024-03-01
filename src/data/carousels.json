@@ -5,14 +5,14 @@
   },
   {
     "image": "/static/jumbotron/mlbb.jpeg",
-    "url": "https://www.codashop.com/en-ca/mobile-legends"
+    "url": "/mobile-legends"
   },
   {
     "image": "/static/jumbotron/pubgm.jpeg",
-    "url": "https://www.codashop.com/en-ca/pubg-mobile-uc-redeem-code"
+    "url": "/pubg-mobile-uc-redeem-code"
   },
   {
     "image": "/static/jumbotron/wor.jpeg",
-    "url": "https://www.codashop.com/en-ca/watcher-of-realms"
+    "url": "/watcher-of-realms"
   }
 ]
